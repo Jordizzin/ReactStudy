@@ -1,7 +1,7 @@
 # ReactStudy
 리액트 스터디(hanaro)
 
-## to-do-list 만들기
+## :memo:to-do-list 만들기
 * ### *파일구조*
 >src
 >> **App<br>**
